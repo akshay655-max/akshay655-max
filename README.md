@@ -7,17 +7,17 @@
 
  🌱 I’m currently learning:- **FULL STACK WEB DEVELOPMENT FROM MASAI BENGALURU**
 
-- I made this project with my team:- [Intern theory Clone website](https://venerable-moxie-7fca57.netlify.app/)
+- I made this project with my team:- [Bellavitaorganic website](https://elegant-lily-59df11.netlify.app/)
 
-- I made this project Individually:- [Pharmacy Clone website](https://gleaming-haupia-a989a3.netlify.app/)
+- I made this project with my team:- [Unsplash website](https://precious-faun-cb3646.netlify.app/)
 
 - 🤝 This is my React Based Individual project:- [Kimaye-app Clone website](https://kimaye-app.vercel.app/)
 
-- 👨‍💻 All of my projects are available at:- [https://meenakshi176.github.io/](https://meenakshi176.github.io/)
+- 👨‍💻 All of my projects are available at:- [https://akshay655-max.github.io/](https://akshay655-max.github.io/)
 
-- 💬 Ask me about :-**HTML,CSS, JAVASCRIPT,MONGODB,EXPRESS,NODEJS,REACT.**
+- 💬 Ask me about :-**HTML,CSS, JAVASCRIPT,MONGODB,EXPRESS,NODEJS,REACT.REDUX**
 
-- 📫 How to reach me:- **meenakshisinghthakur4668@gmail.com**
+- 📫 How to reach me:- **akshaysuman129@gmail.com**
 
 - 📄 Know about my experiences :-[https://drive.google.com/file/d/16x7IpEzANjmplIHKvPOBGHVSZ8-5JJP6/view?usp=sharing](https://drive.google.com/file/d/16x7IpEzANjmplIHKvPOBGHVSZ8-5JJP6/view?usp=sharing)
 
