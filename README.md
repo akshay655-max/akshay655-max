@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meenakshi Singh Thakur</h1>
+<h1 align="center">Hi 👋, I'm Akshay Suman</h1>
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+Developer;Quick+learner;MERN+Developer;&right=true&width=400&height=50">
 
 <img align="right" alt="Coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.qtAYMn4m0S-6Rhwz2uZAoAHaFj&pid=Api&P=0">
