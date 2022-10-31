@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.qtAYMn4m0S-6Rhwz2uZAoAHaFj&pid=Api&P=0">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meenakshi176&label=Profile%20views&color=0e75b6&style=flat" alt="meenakshi176" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meenakshi176&label=Profile%20views&color=0e75b6&style=flat" alt="akshay655-max" /> </p>
 
  🌱 I’m currently learning:- **FULL STACK WEB DEVELOPMENT FROM MASAI BENGALURU**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at:- [https://akshay655-max.github.io/](https://akshay655-max.github.io/)
 
-- 💬 Ask me about :-**HTML,CSS, JAVASCRIPT,MONGODB,EXPRESS,NODEJS,REACT.REDUX**
+- 💬 Ask me about :-**HTML,CSS, JAVASCRIPT,MONGODB,EXPRESS,NODEJS,REACT,REDUX**
 
 - 📫 How to reach me:- **akshaysuman129@gmail.com**
 
