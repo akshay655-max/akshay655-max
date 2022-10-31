@@ -84,12 +84,12 @@
 <h3 align="center">My GitHub Stats:</h3>
 <br>
 <p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meenakshi176&show_icons=true&locale=en&layout=compact" alt="meenakshi176" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay655-max&show_icons=true&locale=en&layout=compact" alt="akshay655-max" /></p>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meenakshi176&show_icons=true&locale=en" alt="meenakshi176" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay655-max&show_icons=true&locale=en" alt="akshay655-max" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meenakshi176&" alt="meenakshi176" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay655-max&" alt="akshay655-max" /></p>
 
 
 
