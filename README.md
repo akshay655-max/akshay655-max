@@ -10,14 +10,14 @@
 
 🚀 I have learned couple of CSS libraries like Chakra UI, Bootstrap & styled-components.
 
-📧 Email - surendramarshkole78@gmail.com
+📧 Email - akshaysuman129@gmail.com
 
-💼 Portfolio - https://surendrakumar878.github.io/
+💼 Portfolio - https://akshay655-max.github.io/
 
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surendra-kumar-8140aa19b/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-suman-218103234/) 
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -39,9 +39,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=surendrakumar878&theme=react&hide_border=false&include_all_commits=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=akshay655-max&theme=react&hide_border=false&include_all_commits=true)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=surendrakumar878&theme=react&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akshay655-max&theme=react&hide_border=false)<br/>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surendrakumar878&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
