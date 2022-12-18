@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenakshi176&label=Profile%20views&color=0e75b6&style=flat" alt="akshay655-max" /> </p>
 
  🌱 I’m currently learning:- **FULL STACK WEB DEVELOPMENT FROM MASAI BENGALURU**
+ 
+ 🤝 I'm looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
 - I made this project with my team:- [Bellavitaorganic website](https://elegant-lily-59df11.netlify.app/)
 
