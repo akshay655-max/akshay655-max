@@ -19,9 +19,15 @@
 💼 Portfolio - https://akshay655-max.github.io/
 
 
-## 🌐 Socials
+<h3 align="left">Connect With Me:🌐</h3>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-suman-218103234/) 
+<div align="left">
+<a href="https://www.linkedin.com/in/akshay-suman-218103234/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a  href="mailto:akshaysuman129@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a  href="https://github.com/akshay655-max" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+<br>
 
 
 <br>
@@ -73,3 +79,5 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay655-max&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<h3 align="center" color="green">"Stay Happy, Stay Motivated"</h3>
